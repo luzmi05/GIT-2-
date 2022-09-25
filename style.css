@@ -1,20 +1,41 @@
 body{
-    background-color: lavenderblush;
+    background-color: rgba(0, 0, 0, 0.197);
     font-family: 'Times New Roman', Times, serif;
+    background-image: url("https://wallpaperaccess.com/full/2345116.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
-img{
-    display: block;
-    margin: 0px auto;
-}
+
 li{
-    color:royalblue;
+    color:rgb(104, 104, 105);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
+
 div{
-    color: black;
+    color: rgb(255, 255, 255);
     font-family: 'Lobster', cursive;
 }
+
 h2{
     font-family: 'Ms Madi', cursive;
 
+}
+.uesa{
+    color:rgb(224, 224, 224);
+    font-family: 'Comercial', cursive;
+}
+.uesa:hover{
+    color:rgb(255, 0, 204);
+}
+.img-1{
+    display: block;
+    margin: 0px auto;
+}
+
+.main{
+    display: block;
+    margin: 0px auto;
+    text-align: center;
+    
 }
